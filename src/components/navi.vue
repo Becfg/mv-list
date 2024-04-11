@@ -4,9 +4,9 @@
 
 <template>
   <div class="nav">
-    <router-link to="">首页</router-link>
-    <router-link to="">频道列表</router-link>
-    <router-link to="">我的</router-link>
+    <router-link to="/">首页</router-link>
+    <router-link to="/list">频道列表</router-link>
+    <router-link to="/my">我的</router-link>
   </div>
 </template>
 
@@ -18,6 +18,7 @@
   flex-direction: row;
   background-color: #2c3e50;
   line-height: 50px;
+
   a {
     color: white;
     text-decoration: none;
