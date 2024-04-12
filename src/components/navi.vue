@@ -26,7 +26,7 @@ let searchShow = ref(false);
 
 <style lang="scss" scoped>
 .nav {
-  position: fixed;
+  position: absolute;
   width: 100%;
   display: flex;
   justify-content: space-around;

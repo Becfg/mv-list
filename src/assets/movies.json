@@ -7,26 +7,26 @@
   },
   {
     "id": 2,
-    "type": "动画",
-    "name": "迷宫饭",
+    "type": "科幻",
+    "name": "流浪地球",
     "url": "../assets/anime.webp"
   },
   {
     "id": 3,
-    "type": "动画",
-    "name": "迷宫饭",
+    "type": "Test",
+    "name": "测试",
     "url": "../assets/anime.webp"
   },
   {
     "id": 4,
-    "name": "迷宫饭",
-    "type": "动画",
+    "name": "三体",
+    "type": "电视剧",
     "url": "../assets/anime.webp"
   },
   {
     "id": 5,
-    "type": "动画",
-    "name": "迷宫饭",
+    "type": "美剧",
+    "name": "绝命毒师",
     "url": "../assets/anime.webp"
   }
 ]
