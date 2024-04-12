@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "动画",
+    "name": "迷宫饭",
+    "url": "../assets/anime.webp"
+  },
+  {
+    "id": 2,
+    "type": "动画",
+    "name": "迷宫饭",
+    "url": "../assets/anime.webp"
+  },
+  {
+    "id": 3,
+    "type": "动画",
+    "name": "迷宫饭",
+    "url": "../assets/anime.webp"
+  },
+  {
+    "id": 4,
+    "name": "迷宫饭",
+    "type": "动画",
+    "url": "../assets/anime.webp"
+  },
+  {
+    "id": 5,
+    "type": "动画",
+    "name": "迷宫饭",
+    "url": "../assets/anime.webp"
+  }
+]
